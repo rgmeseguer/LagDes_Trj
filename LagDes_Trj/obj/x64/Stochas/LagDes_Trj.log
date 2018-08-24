@@ -1,0 +1,106 @@
+﻿  Cleaning remote project directory
+  Validating architecture
+  Validating sources
+  Copying sources remotely to 'bluecrystalp3.bris.ac.uk'
+  Starting remote build
+  Compiling sources:
+  Dynamic.cpp
+  LagDesc.cpp
+  main.cpp
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(14): warning : ignoring #pragma region Input [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(14): warning :  #pragma region Input variables
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(19): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(19): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(20): warning : ignoring #pragma region Variables [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(20): warning :  #pragma region Variables for printing
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(43): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(43): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(44): warning : ignoring #pragma region System [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(44): warning :  #pragma region System Initial Conditions and Variables
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(70): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(70): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(71): warning : ignoring #pragma region Tool [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(71): warning :  #pragma region Tool Variables
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(88): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(88): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(94): warning : ignoring #pragma region Dynamic [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(94): warning :  #pragma region Dynamic Step
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(103): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(103): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(104): warning : ignoring #pragma region Lagrangian [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(104): warning :  #pragma region Lagrangian Descriptor Calculation
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(122): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(122): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(126): warning : ignoring #pragma region Actualize [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(126): warning :  #pragma region Actualize Point
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(144): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(144): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(146): warning : ignoring #pragma region Key [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(146): warning :  #pragma region Key Write
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(160): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(160): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(161): warning : ignoring #pragma region Opening [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(161): warning :  #pragma region Opening and Closing Points
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(198): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(198): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(199): warning : ignoring #pragma region Clean [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(199): warning :  #pragma region Clean Buffer
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(214): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(214): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(218): warning : ignoring #pragma region Printing [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(218): warning :  #pragma region Printing
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(223): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(223): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.h(58,42): warning : conversion to 'int' from 'size_t {aka long unsigned int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.h(58,42): warning :    p[0] += LD.D[i] * ut.powerd(osc.r[0], i);
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.h(58,42): warning :                                           ^
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(11,12): warning : conversion to 'unsigned int' from 'time_t {aka long int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(11,12): warning :   srand(time(NULL));            //Initialize the random seed
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(11,12): warning :         ~~~~^~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(90,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(90,23): warning :   for (size_t j = 0; j < Dyn.nstep; j++)       //Start the trajectory
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(90,23): warning :                      ~~^~~~~~~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(124,13): warning : conversion to 'double' from 'size_t {aka long unsigned int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(124,13): warning :    if (j*Dyn.dt >= tau)
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(124,13): warning :              ^~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(163,14): warning : conversion to 'double' from 'size_t {aka long unsigned int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(163,14): warning :     if (j*Dyn.dt < Dyn.nstep*Dyn.dt - tau)
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\main.cpp(163,14): warning :               ^~
+  Oscilator.cpp
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(240,12): warning : conversion to 'unsigned int' from 'time_t {aka long int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(240,12): warning :   srand(time(NULL));
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(240,12): warning :         ~~~~^~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(244,48): warning : conversion to 'float' from 'double' may alter its value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(244,48): warning :   double kinBath = ut.RandomFloat(0., kineticTot);
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(244,48): warning :                                                 ^
+  Point.cpp
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Point.cpp(28): warning : ignoring #pragma region Average [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Point.cpp(28): warning :  #pragma region Average Calculation
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Point.cpp(56): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Point.cpp(56): warning :  #pragma endregion
+  utilities.cpp
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(81,9): warning : conversion to 'int' from 'long int' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(81,9): warning :   j = iy / NDIV;         //Will be in the range 0..NTAB - 1.
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,19): warning : conversion to 'double' from 'long int' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,19): warning :   if ((temp = AM * iy) > RNMX) return RNMX;
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,19): warning :                    ^~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.h(21,19): warning : conversion to 'float' alters 'double' constant value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.h(21,19): warning :  #define RNMX (1.0 - EPS)
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.h(21,19): warning :               ~~~~~^~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,38): message : in expansion of macro 'RNMX'
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,38): message :   if ((temp = AM * iy) > RNMX) return RNMX;
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(85,38): message :                                       ^~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(86,14): warning : conversion to 'float' from 'double' may alter its value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(86,14): warning :   else return temp;
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(86,14): warning :               ^~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(93,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(93,23): warning :   for (size_t i = 0; i < nstep; i += 2)
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(93,23): warning :                      ~~^~~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(102,21): warning : conversion to '__gnu_cxx::__alloc_traits<std::allocator<double> >::value_type {aka double}' from 'long double' may alter its value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(102,21): warning :    gasdev[i] = term1 * cos(2 * M_PIl * u2);
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(102,21): warning :                ~~~~~~^~~~~~~~~~~~~~~~~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(103,25): warning : conversion to '__gnu_cxx::__alloc_traits<std::allocator<double> >::value_type {aka double}' from 'long double' may alter its value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(103,25): warning :    gasdev[i + 1] = term1 * sin(2 * M_PIl * u2);
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\utilities.cpp(103,25): warning :                    ~~~~~~^~~~~~~~~~~~~~~~~~~~~
+  Linking objects
+  LagDes_Trj.vcxproj -> C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\bin\x64\Stochas\LagDes_Trj.out

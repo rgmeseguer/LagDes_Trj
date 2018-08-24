@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LagDes_Trj", "LagDes_Trj\LagDes_Trj.vcxproj", "{B159B18F-EE5D-484F-B826-3A2871A1F189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Determ|ARM = Determ|ARM
+		Determ|x64 = Determ|x64
+		Determ|x86 = Determ|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Stochas|ARM = Stochas|ARM
+		Stochas|x64 = Stochas|x64
+		Stochas|x86 = Stochas|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|ARM.Build.0 = Debug|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|x64.ActiveCfg = Debug|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|x64.Build.0 = Debug|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|x86.ActiveCfg = Debug|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Debug|x86.Build.0 = Debug|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|ARM.ActiveCfg = Determ|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|ARM.Build.0 = Determ|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|x64.ActiveCfg = Determ|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|x64.Build.0 = Determ|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|x86.ActiveCfg = Determ|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Determ|x86.Build.0 = Determ|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|ARM.ActiveCfg = Release|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|ARM.Build.0 = Release|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|x64.ActiveCfg = Release|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|x64.Build.0 = Release|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|x86.ActiveCfg = Release|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Release|x86.Build.0 = Release|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|ARM.ActiveCfg = Stochas|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|ARM.Build.0 = Stochas|ARM
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|x64.ActiveCfg = Stochas|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|x64.Build.0 = Stochas|x64
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|x86.ActiveCfg = Stochas|x86
+		{B159B18F-EE5D-484F-B826-3A2871A1F189}.Stochas|x86.Build.0 = Stochas|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B46C40D-E378-44D7-A036-5C33D7B347EC}
+	EndGlobalSection
+EndGlobal

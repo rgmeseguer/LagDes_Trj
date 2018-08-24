@@ -1,0 +1,22 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to 'bluecrystalp3.bris.ac.uk'
+  Starting remote build
+  Compiling sources:
+  Oscilator.cpp
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(271): warning : ignoring #pragma region Select [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(271): warning :  #pragma region Select the direction of the system and the bath
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(303): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(303): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(331): warning : ignoring #pragma region Initial [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(331): warning :  #pragma region Initial Conditions
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(348): warning : ignoring #pragma endregion  [-Wunknown-pragmas]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(348): warning :  #pragma endregion
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(250,12): warning : conversion to 'unsigned int' from 'time_t {aka long int}' may alter its value [-Wconversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(250,12): warning :   srand(time(NULL));
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(250,12): warning :         ~~~~^~~~~~
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(254,48): warning : conversion to 'float' from 'double' may alter its value [-Wfloat-conversion]
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(254,48): warning :   double kinBath = ut.RandomFloat(0., kineticTot);
+C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\Oscilator.cpp(254,48): warning :                                                 ^
+  Linking objects
+  LagDes_Trj.vcxproj -> C:\Users\rg17191\source\repos\LagDes_Trj\LagDes_Trj\bin\x64\Determ\LagDes_Trj.out
