@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Dynamic.cpp" />
+    <ClCompile Include="LagDesc.cpp" />
+    <ClCompile Include="Oscilator.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="utilities.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{1a410b6d-fea8-4825-b95e-76becc3be2d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dynamic.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LagDesc.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Oscilator.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
